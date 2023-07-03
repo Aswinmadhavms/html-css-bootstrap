@@ -1,0 +1,29 @@
+#a1{
+    position: relative;
+    height: 170px;
+    width: 80px;
+    background-color: brown;
+    color:#fcf7f7;
+}
+#bt{
+    height: 80px;
+    width: 80px;
+    background-color: brown;
+    color: #fcf7f7;
+}
+#a2{
+    height: 80px;
+    width: 170px;
+    background-color: brown;
+    color: #fcf7f7;
+}
+.a3{
+    height: 80px;
+    background-color:aqua
+    
+}
+#a4{
+    height: 60px;
+    width: 200px;
+
+}

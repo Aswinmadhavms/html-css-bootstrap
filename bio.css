@@ -1,0 +1,29 @@
+h1{
+    background-color: #B08BBB;
+    color:#B5D5C5;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h2{
+    color:#B08BBB;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.a1{
+    font-family: sans-serif;
+    color: #ECA869;
+}
+.a2{
+    background-color: #B5D5C5;
+    cursor: pointer;
+    font-family: sans-serif;
+    color: #ECA869;
+}
+.a3{
+    background-color: #B5D5C5;
+    cursor: grab;
+    box-shadow: #B08BBB;
+    font-family: sans-serif;
+    color: #ECA869;
+}

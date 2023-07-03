@@ -1,0 +1,60 @@
+.as{
+    width: 300px;
+    height: 300px;
+    color: aqua;
+    background-color: blue;
+    position: absolute;
+    top: 100px;
+    bottom: 200px;
+    left: 50px;
+    right: 500px;
+}
+.wi{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(0, 255, 64);
+    position: absolute;
+    top: 100px;
+    bottom: 200px;
+    left: 500px;
+    right:300px;
+}
+.nm{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(236, 43, 43);
+    position: absolute;
+    top: 100px;
+    bottom: 200px;
+    left: 950px;
+    right: 400px;
+}
+.ad{ width: 300px;
+    height: 300px;
+    background-color: rgb(43, 236, 59);
+    position: absolute;
+    top: 500px;
+    bottom: 200px;
+    left: 950px;
+    right: 300px;
+}
+    .ha{
+        width: 300px;
+        height: 300px;
+        background-color: rgb(43, 120, 236);
+        position: absolute;
+        top: 700px;
+        bottom: 200px;
+        left: 800px;
+        right: 400px;
+    }
+    .vs{
+        width: 300px;
+        height: 300px;
+        background-color: rgb(9, 39, 83);
+        position: fixed;
+        top: 900px;
+        bottom: 200px;
+        left: 700px;
+        right: 500px;  
+    }

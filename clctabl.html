@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="clctabl.css">
+</head>
+<body>
+    <div class="bord">
+    <table border="1px">
+        <tr>
+            <th class="a3" colspan="4"><textarea id="a4" ></textarea></th>
+        </tr>
+        <tr>
+            <td><input type="button" value="c" id="bt" onclick="clr()" ></td>
+            <td><input type="button" value="b" id="bt"></td>
+            <td><input type="button" value="/" id="bt" onclick="display('/')"></td>
+            <td><input type="button" value="*" id="bt" onclick="display('*')"></td>
+        </tr>
+        <tr>
+            <td><input type="button" value="7" id="bt" onclick="display(7)"></td>
+            <td><input type="button" value="8" id="bt" onclick="display(8)"></td>
+            <td><input type="button" value="9" id="bt" onclick="display(9)"></td>
+            <td><input type="button" value="-" id="bt" onclick="display('-')"></td>
+        </tr>
+        <tr>
+            <td><input type="button" value="4" id="bt" onclick="display(4)"></td>
+            <td><input type="button" value="5" id="bt" onclick="display(5)"></td>
+            <td><input type="button" value="6" id="bt" onclick="display(6)"></td>
+            <td><input type="button" value="+" id="bt" onclick="display('+')"></td>
+        </tr>
+        <tr>
+            <td><input type="button" value="1" id="bt" onclick="display(1)"></td>
+            <td><input type="button" value="2" id="bt" onclick="display(2)"></td>
+            <td><input type="button" value="3" id="bt" onclick="display(3)"></td>
+            <td rowspan="2"> <input type="button"  value="=" id="a1" onclick="solve()"></td>
+        </tr>
+        <tr>
+            <td colspan="2"><input type="button" value="0" id="a2" onclick="display(0)"></td>
+            <td><input type="button" value="." id="bt" onclick="display('.')"></td>
+          
+        </tr>
+    </table>
+    <script src="calctable.js"></script>
+</body>
+</html>

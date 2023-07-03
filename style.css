@@ -1,0 +1,23 @@
+h1{
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-style:italic ;
+}
+p{
+    color: rgb(226, 92, 2);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+h4{
+   color: rgb(2, 58, 39);
+    font-kerning: inherit;
+}
+#name{
+    color: brown;
+}
+.f2{
+    color: blue;
+    font-stretch: extra-condensed;
+    font-display: ;
+}
